@@ -1,0 +1,56 @@
+body {
+    background-color: #8281E5;
+}
+.box1 {
+    background-color: #2A265F;
+    width: 250px;
+    height: 200px;
+    border-radius: 10px 0 0 10px;
+    padding: 10px;
+    border: 0px solid #2A265F;
+    box-sizing: border-box;
+    margin: 200px 400px;
+}
+.mess1,.mess2 {
+    color: rgb(236, 230, 230);
+    font-family: monospace;
+    font-size: 15;
+
+}
+.course {
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2 {
+    background-color: #fcfcff;
+    width: 350px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    margin: -400px 650px;
+    border-radius: 0 10px 10px 0;
+}
+.mess3{
+    color: #2A265F;
+    font-family: lucida sans-serif;
+    font-size: 15;
+}
+.mess4 {
+    color:#2A265F;
+    font-family: monospace;
+    font-size: 25px;
+}
+.button1 {
+  background-color: #2a265f;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 30px;
+  text-align: right;
+  display: inline-block;
+  border: 0px solid;
+  font-size: 20px;
+  margin-inline: 175px;
+  font-family: ubuntu mono;
+  
+}
